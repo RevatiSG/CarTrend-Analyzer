@@ -37,3 +37,7 @@ Model Y is the highest-rated electric car model, while X5 is the highest-rated n
 
 ## Conclusion
 The used car marketplace is witnessing dynamic trends and customer preferences, with car demand and ratings increasing over time. Mileage and pricing seem linked to brand positioning. The visual and statistical analysis provides data-backed insights into market trends.
+
+## About the Author
+
+Revati Ganorkar | Product Enthusiast | [LinkedIn](https://www.linkedin.com/in/revati-ganorkar)
